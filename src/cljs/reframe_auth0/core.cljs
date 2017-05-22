@@ -3,6 +3,7 @@
               [re-frame.core :as re-frame]
               [reframe-auth0.events]
               [reframe-auth0.subs]
+              [reframe-auth0.auth0]
               [reframe-auth0.views :as views]
               [reframe-auth0.config :as config]))
 
